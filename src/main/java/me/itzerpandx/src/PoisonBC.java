@@ -17,6 +17,7 @@ public class PoisonBC extends JavaPlugin {
     public void onEnable() {
         this.saveDefaultConfig();
         config = this.getConfig();
+        getServer().getPluginManager().registerEvents(new DeveloperVerification(this), this);
     }
 
     @Override
