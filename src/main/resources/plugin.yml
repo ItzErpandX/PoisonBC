@@ -1,0 +1,27 @@
+name: PoisonBC
+version: '1.0'
+main: me.itzerpandx.src.PoisonBC
+api-version: '1.19'
+load: STARTUP
+loadbefore: [EssentialsX]
+authors: [ItzErpandX]
+description: A simple broadcast plugin for poisonbox
+website: https://discord.gg/poisonbox
+commands:
+  bc:
+    description: Broadcasts a message to all players (chat only)
+    usage: /bc <message>
+    permission: poisonbc
+    permission-message: You do not have permission to use this command.
+    aliases: [broadcast, bcast]
+  announcement:
+    description: Broadcasts a message to all players (title and chat)
+    usage: /announcement <message>
+    permission: poisonbc
+    permission-message: You do not have permission to use this command.
+    aliases: [announce]
+  poisonbcreload:
+    description: Reloads the plugin configuration
+    usage: /poisonbcreload
+    permission: poisonbc.reload
+    permission-message: You do not have permission to use this command.
