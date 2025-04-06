@@ -6,7 +6,7 @@ load: STARTUP
 loadbefore: [EssentialsX]
 authors: [ItzErpandX]
 description: A simple broadcast plugin for poisonbox
-website: https://discord.gg/poisonbox
+website: https://github.com/ItzErpandX
 commands:
   bc:
     description: Broadcasts a message to all players (chat only)
