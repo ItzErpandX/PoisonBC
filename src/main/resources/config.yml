@@ -1,8 +1,10 @@
-title-header: "&5&lPOISONBOX NEWS"
-broadcast-header: "&5&lPOISONBOX NEWS &8&l|"
+# POISONBC NOW USES MINIMESSAGE, LEGACY COMPONENTS LIKE & AND § WILL NOT BE RECOGNIZED!
+# https://webui.advntr.dev/
+title-header: "<dark_purple><bold>POISONBOX NEWS"
+broadcast-header: "<dark_purple><bold>POISONBOX NEWS <dark_gray><bold>|<reset>"
 fade-in: 20
 stay: 60
 fade-out: 20
-sound: "BLOCK_AMETHYST_CLUSTER_FALL"
+sound: "block.amethyst_cluster.fall"
 volume: 1.0
 pitch: 1.0
