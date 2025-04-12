@@ -1,7 +1,7 @@
 name: PoisonBC
-version: '1.0'
+version: '1.1'
 main: me.itzerpandx.src.PoisonBC
-api-version: '1.19'
+api-version: '1.20'
 load: STARTUP
 loadbefore: [EssentialsX]
 authors: [ItzErpandX]
