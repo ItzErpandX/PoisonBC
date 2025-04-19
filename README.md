@@ -16,7 +16,7 @@ PoisonBC is a plugin that I formerly made for my server PoisonBox, but I decided
 
 # 🎨 MINIMESSAGE SUPPORT
 
-All announcements are fully compatible with MiniMessage formatting!
+The plugin is fully compatible with MiniMessage formatting!
 
 Test and preview your messages live using the [Adventure Web UI](https://webui.advntr.dev/)
 
